@@ -1,2 +1,2 @@
 # Python
-Repository for learning pynthon
+Repository for learning Python
