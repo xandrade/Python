@@ -1,10 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 """
 start.py - v0.0.1 2019-05-10 Antonio Andrade
 This module provides simple classes and interfaces
 Author's website: http://
 """
+
 __version_info__ = (0, 0, 1)
 __version__ = '.'.join(map(str, __version_info__))
 __author__ = "Antonio Andrade"
