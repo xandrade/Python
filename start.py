@@ -14,7 +14,7 @@ __copyright__ = "Copyright 2019, Antonio Andrade"
 __credits__ = ["Antonio Andrade", ]
 __license__ = "Apache 2.0"
 __maintainer__ = "Antonio Andrade"
-__email__ = "andrade.antonio@gmai.com"
+__email__ = "andrade.antonio@gmail.com"
 __status__ = "Development"
 
 ### CHANGES ###
@@ -53,5 +53,5 @@ def testing(var):
 if __name__ == "__main__":
 
     print(testing(1))
-    print(testing(3))
+    print(testing(2))
     print(testing(22))
