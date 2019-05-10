@@ -29,7 +29,11 @@ __status__ = "Development"
 
 
 def testing_var_1():
-
+    """This function return 1
+    
+    Returns:
+        int -- value 1
+    """
     return 1
 
 
