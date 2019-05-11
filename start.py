@@ -15,7 +15,7 @@ __credits__ = ["Antonio Andrade", ]
 __license__ = "Apache 2.0"
 __maintainer__ = "Antonio Andrade"
 __email__ = "andrade.antonio@gmail.com"
-__status__ = "Development"
+__status__ = "Beta"
 
 ### CHANGES ###
 # 2019-05-10: v0.0.1 AA:
