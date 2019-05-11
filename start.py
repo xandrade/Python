@@ -37,7 +37,12 @@ def testing_var_1():
     return 1
 
 
-def testing_var_2():
+def testing_var_2():    
+    """This function return 1
+    
+    Returns:
+        int -- value 2
+    """
     return 2
 
 
